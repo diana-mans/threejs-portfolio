@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elm tree
+* source:	https://sketchfab.com/3d-models/elm-tree-859d8f4480dd4b8a8815615d2e4576de
+* author:	Georgeous (https://sketchfab.com/intice184)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elm tree" (https://sketchfab.com/3d-models/elm-tree-859d8f4480dd4b8a8815615d2e4576de) by Georgeous (https://sketchfab.com/intice184) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

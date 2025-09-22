@@ -1,0 +1,432 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4612,
+      "max": [
+        6925149.0,
+        8248329.5,
+        16167833.0
+      ],
+      "min": [
+        -6869633.0,
+        -7778118.0,
+        4323496.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 55344,
+      "componentType": 5126,
+      "count": 4612,
+      "max": [
+        0.9997398853302002,
+        0.9998745918273926,
+        0.9999767541885376
+      ],
+      "min": [
+        -0.9999884366989136,
+        -0.9999494552612305,
+        -0.9993811845779419
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4612,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4612,
+      "max": [
+        0.9578257203102112,
+        1.0
+      ],
+      "min": [
+        0.012967884540557861,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 36896,
+      "componentType": 5126,
+      "count": 4612,
+      "max": [
+        0.9578257203102112,
+        1.0
+      ],
+      "min": [
+        0.012967884540557861,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 11727,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 110688,
+      "componentType": 5126,
+      "count": 18897,
+      "max": [
+        6173940.5,
+        7257813.5,
+        15528602.0
+      ],
+      "min": [
+        -5497879.5,
+        -6602040.5,
+        -1781763.125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 337452,
+      "componentType": 5126,
+      "count": 18897,
+      "max": [
+        0.9999933838844299,
+        0.9999250769615173,
+        0.9999886155128479
+      ],
+      "min": [
+        -0.9999421834945679,
+        -0.9999115467071533,
+        -0.9999701976776123
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 73792,
+      "componentType": 5126,
+      "count": 18897,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 73792,
+      "componentType": 5126,
+      "count": 18897,
+      "max": [
+        4.869562149047852,
+        11.910897254943848
+      ],
+      "min": [
+        -1.0621733665466309,
+        -1.2548460960388184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 224968,
+      "componentType": 5126,
+      "count": 18897,
+      "max": [
+        4.869562149047852,
+        11.910897254943848
+      ],
+      "min": [
+        -1.0621733665466309,
+        -1.2548460960388184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 46908,
+      "componentType": 5125,
+      "count": 84882,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Georgeous (https://sketchfab.com/intice184)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/elm-tree-859d8f4480dd4b8a8815615d2e4576de",
+      "title": "Elm tree"
+    },
+    "generator": "Sketchfab-16.73.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 386436,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 376144,
+      "byteOffset": 386436,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 564216,
+      "byteOffset": 762580,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 376144,
+      "byteOffset": 1326796,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1702940,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/M_Branch.008_baseColor.png"
+    },
+    {
+      "uri": "textures/M_Branch.008_normal.png"
+    },
+    {
+      "uri": "textures/M_Bark.008_baseColor.png"
+    },
+    {
+      "uri": "textures/M_Bark.008_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaCutoff": 0.12647657592861233,
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "name": "M_Branch.008",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "M_Bark.008",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Elm_LOD0_M_Branch.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Elm_LOD0_M_Bark.008_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        2.832769343193999e-16,
+        6.290011496532519e-32,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        -2.832769343193999e-16,
+        -1.0,
+        -2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "SM_Elm.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.00011859089136123499,
+        -1.9320907563289215e-11,
+        0.0,
+        0.0,
+        1.9320907563289215e-11,
+        0.00011859089136123499,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.00011859089136123657,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Elm_LOD0"
+    },
+    {
+      "mesh": 0,
+      "name": "Elm_LOD0_M_Branch.008_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Elm_LOD0_M_Bark.008_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
